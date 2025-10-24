@@ -1,0 +1,17 @@
+ultralytics
+opencv-python
+numpy
+mediapipe
+playsound
+thread6
+matplotlib
+pandas
+datetime
+mss
+pygetwindow
+supervision 
+lap
+scikit-learn
+pytesseract
+unidecode
+settings_loader
